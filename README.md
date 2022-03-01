@@ -12,4 +12,4 @@ The author is Currently pursuing Masters in Artificial Intellegence in IIT - Hyd
 
 
 
-#All codes in the repository are copy left
+#All codes in the repository are copy left, Please feel free to comment, fork, suggest changes in the codes
